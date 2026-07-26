@@ -1,20 +1,22 @@
 # Focusdoro Widget
 
 <p align="center">
-  <img src=".github/social-preview.png" alt="Focusdoro Widget — keep the timer on top of your work. Free, no signup. macOS, Windows and Linux. Signed and notarized." width="100%">
+  <img src=".github/social-preview.png" alt="Focusdoro Widget — keep the timer on top of your work. Free, macOS, Windows and Linux. Signed and notarized." width="100%">
 </p>
 
 A desktop Pomodoro companion that keeps your focus session — the timer, the phase, and the task you're working on — visible on top of your work.
 
 **[Download the latest release →](https://github.com/code-with-ahsan/focusdoro-widget/releases/latest)**
 
-Free. No signup. macOS, Windows and Linux.
+Free. macOS, Windows and Linux. Needs a free Focusdoro account.
 
 ---
 
 ## What it is
 
 The widget mirrors the session running in [Focusdoro](https://focusdoro.app) — the web app and the OBS overlay. Start a focus session in the browser and the widget follows it, so the countdown and the current task stay on screen while you work in your editor, your terminal, or anywhere else.
+
+**It is a mirror, not a second timer.** On first launch it asks you to sign in with your Focusdoro account (Google or a magic link), then follows the session you start on the web. There are no start/pause controls on the widget itself — you drive the session from the web app or the overlay, and the widget shows it.
 
 - **Always on top** — the timer never disappears behind another window
 - **Shows the task, not just the clock** — a bare countdown tells you nothing about what you're protecting
