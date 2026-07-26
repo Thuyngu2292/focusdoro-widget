@@ -1,0 +1,67 @@
+Focusdoro Widget — End User License Agreement
+
+Copyright (c) 2026 Muhammad Ahsan Ayaz. All rights reserved.
+
+This repository distributes compiled binaries of the Focusdoro Widget. It is not
+open-source software. The application source code is not published here and is
+not licensed to you under this agreement.
+
+1. GRANT OF LICENSE
+
+   You are granted a free, non-exclusive, worldwide, revocable license to
+   download, install and use the Focusdoro Widget on any number of devices you
+   own or control, for personal or commercial purposes, at no charge.
+
+2. RESTRICTIONS
+
+   You may NOT:
+
+   a. Sell, resell, rent, lease, sublicense or otherwise charge any fee for the
+      software or for access to it.
+
+   b. Modify, adapt, translate or create derivative works based on the software.
+
+   c. Reverse engineer, decompile or disassemble the software, or attempt to
+      derive its source code, except to the extent that this restriction is
+      expressly prohibited by applicable law.
+
+   d. Redistribute the software, or host it for download, whether standalone or
+      bundled with any other product. Link to the official releases page
+      instead: https://github.com/code-with-ahsan/focusdoro-widget/releases
+
+   e. Remove or alter any copyright, trademark or other proprietary notice.
+
+   f. Use the name "Focusdoro", the Focusdoro logo, or any confusingly similar
+      mark to identify or promote any other product.
+
+3. RESERVATION OF RIGHTS
+
+   All rights not expressly granted above are reserved. No rights are granted by
+   implication or estoppel.
+
+4. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+   IN THE SOFTWARE.
+
+6. TERMINATION
+
+   This license terminates automatically if you breach any of its terms. On
+   termination you must stop using the software and destroy all copies.
+
+7. THIRD-PARTY COMPONENTS
+
+   The software includes third-party open-source components, which remain
+   governed by their own license terms. Those terms apply to those components
+   only and do not grant rights to the Focusdoro Widget as a whole.
+
+Questions about licensing, including requests for terms not granted above:
+https://codewithahsan.dev

@@ -45,6 +45,11 @@ This repo exists to distribute the signed widget builds publicly. The Focusdoro 
 
 Issues and feedback are welcome — please open an issue.
 
+## License
+
+Free to download and use, personally or commercially. Not open source — you may
+not resell, modify, redistribute or reverse engineer it. See [LICENSE](LICENSE).
+
 ---
 
 Built by [Muhammad Ahsan Ayaz](https://codewithahsan.dev).
