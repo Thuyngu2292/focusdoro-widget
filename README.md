@@ -1,5 +1,9 @@
 # Focusdoro Widget
 
+<p align="center">
+  <img src=".github/social-preview.png" alt="Focusdoro Widget — keep the timer on top of your work. Free, no signup. macOS, Windows and Linux. Signed and notarized." width="100%">
+</p>
+
 A desktop Pomodoro companion that keeps your focus session — the timer, the phase, and the task you're working on — visible on top of your work.
 
 **[Download the latest release →](https://github.com/code-with-ahsan/focusdoro-widget/releases/latest)**
